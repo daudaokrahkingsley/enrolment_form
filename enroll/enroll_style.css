@@ -58,7 +58,7 @@ body {
 }
 .form .column {
   display: flex;
-  column-gap: 15px;
+  column-gap: 14px;
 }
 .form .gender-box {
   margin-top: 20px;
